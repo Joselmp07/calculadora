@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
+//Autores: Pelu, Magalix, Ever, Francisco, Alberto
+// Calculadora simple en React Native
 
 export default function App() {
   const [pantalla, setPantalla] = useState('');
